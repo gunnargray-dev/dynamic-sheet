@@ -1,4 +1,4 @@
-//
+// MARK: - App Entry Point
 //  DynamicSheetApp.swift
 //  DynamicSheet
 //
@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// MARK: - Main App Struct
 @main
 struct DynamicSheetApp: App {
     var body: some Scene {
